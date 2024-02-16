@@ -1,10 +1,10 @@
 import "./App.css";
-import LikePhotoApp from "./projects/2-like-photo/LikePhotoApp";
+import TestimonialsApp from "./projects/3-testimonial/TestimonialsApp";
 
 function App() {
   return (
     <div className="App">
-      <LikePhotoApp />
+      <TestimonialsApp />
     </div>
   );
 }
