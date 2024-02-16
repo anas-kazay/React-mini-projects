@@ -1,10 +1,10 @@
 import "./App.css";
-import TestimonialsApp from "./projects/3-testimonial/TestimonialsApp";
+import AlertApp from "./projects/4-Alerts/AlertApp";
 
 function App() {
   return (
     <div className="App">
-      <TestimonialsApp />
+      <AlertApp />
     </div>
   );
 }
