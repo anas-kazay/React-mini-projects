@@ -1,10 +1,10 @@
 import "./App.css";
-import TemperatureControllerApp from "./projects/6-temperature-controller/TemperatureControllerApp";
+import LightAndDarkMode from "./projects/5-light-and-dark-mode/LightAndDarkMode";
 
 function App() {
   return (
     <div className="App">
-      <TemperatureControllerApp />
+      <LightAndDarkMode />
     </div>
   );
 }
