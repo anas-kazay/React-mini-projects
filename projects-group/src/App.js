@@ -1,10 +1,10 @@
 import "./App.css";
-import AlertApp from "./projects/4-Alerts/AlertApp";
+import TemperatureControllerApp from "./projects/6-temperature-controller/TemperatureControllerApp";
 
 function App() {
   return (
     <div className="App">
-      <AlertApp />
+      <TemperatureControllerApp />
     </div>
   );
 }
