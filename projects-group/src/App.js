@@ -1,10 +1,10 @@
 import "./App.css";
-import LightAndDarkMode from "./projects/5-light-and-dark-mode/LightAndDarkMode";
+import SlideToUnlock from "./projects/7-lock-screen/SlideToUnlock";
 
 function App() {
   return (
     <div className="App">
-      <LightAndDarkMode />
+      <SlideToUnlock />
     </div>
   );
 }

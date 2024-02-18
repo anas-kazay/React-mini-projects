@@ -21,6 +21,9 @@ export default function LightAndDarkMode() {
         document.body.classList.remove("text-dark");
         document.body.classList.add("bg-dark");
         document.body.classList.add("text-light");
+        break;
+      default:
+        break;
     }
   }, [theme]);
   return (
