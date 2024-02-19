@@ -25,6 +25,10 @@ export default function SliderComp({ setValue, handleInput, color }) {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
+            position: "fixed",
+            left: "50%", // Center horizontally
+            top: "50%", // Center vertically
+            transform: "translate(-50%, -50%)",
           }}
         >
           {setValue}
