@@ -1,10 +1,10 @@
 import "./App.css";
-import SlideToUnlock from "./projects/7-lock-screen/SlideToUnlock";
+import SliderApp from "./projects/8-slider/SliderApp";
 
 function App() {
   return (
     <div className="App">
-      <SlideToUnlock />
+      <SliderApp />
     </div>
   );
 }
