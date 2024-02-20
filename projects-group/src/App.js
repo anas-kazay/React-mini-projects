@@ -1,10 +1,10 @@
 import "./App.css";
-import SliderApp from "./projects/8-slider/SliderApp";
+import HiddenSearchBarApp from "./projects/9-hidden-search-bar/HiddenSearchBarApp";
 
 function App() {
   return (
     <div className="App">
-      <SliderApp />
+      <HiddenSearchBarApp />
     </div>
   );
 }
