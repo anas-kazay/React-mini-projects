@@ -71,6 +71,7 @@ export default function HiddenSearchBarApp() {
       opacity: 0,
       borderBottomColor: "#fff",
       showSearchIcon: true,
+      showSearchBar: false,
     });
   };
 
