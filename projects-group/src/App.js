@@ -1,10 +1,10 @@
 import "./App.css";
-import ProgressBarsContainer from "./projects/11-progress-bars/ProgressBarsContainer";
+import FilterContactsApp from "./projects/12-filter-contacts-app/FilterContactsApp";
 
 function App() {
   return (
     <div className="App">
-      <ProgressBarsContainer />
+      <FilterContactsApp />
     </div>
   );
 }
