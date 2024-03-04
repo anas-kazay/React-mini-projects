@@ -1,10 +1,10 @@
 import "./App.css";
-import FilterContactsApp from "./projects/12-filter-contacts-app/FilterContactsApp";
+import NotesApp from "./projects/13-notes-app/NotesApp";
 
 function App() {
   return (
     <div className="App">
-      <FilterContactsApp />
+      <NotesApp />
     </div>
   );
 }
