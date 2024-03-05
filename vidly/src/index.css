@@ -17,3 +17,7 @@ code {
   cursor: "pointer";
   color: red;
 }
+
+.clickable {
+  cursor: pointer;
+}
