@@ -1,10 +1,10 @@
 import "./App.css";
-import NotesApp from "./projects/13-notes-app/NotesApp";
+import TasksTrackerApp from "./projects/14-tasks-tracker/TasksTrackerApp";
 
 function App() {
   return (
     <div className="App">
-      <NotesApp />
+      <TasksTrackerApp />
     </div>
   );
 }
