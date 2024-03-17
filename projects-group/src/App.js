@@ -1,10 +1,10 @@
 import "./App.css";
-import TasksTrackerApp from "./projects/14-tasks-tracker/TasksTrackerApp";
+import PhoneBookApp from "./projects/15-phone-book/PhoneBookApp";
 
 function App() {
   return (
     <div className="App">
-      <TasksTrackerApp />
+      <PhoneBookApp />
     </div>
   );
 }
