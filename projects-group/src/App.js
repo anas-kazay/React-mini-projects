@@ -1,10 +1,10 @@
 import "./App.css";
-import PhoneBookApp from "./projects/15-phone-book/PhoneBookApp";
+import ImagePost from "./projects/16-lazy-loading/ImagePost";
 
 function App() {
   return (
     <div className="App">
-      <PhoneBookApp />
+      <ImagePost />
     </div>
   );
 }
