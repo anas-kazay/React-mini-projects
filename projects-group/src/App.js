@@ -1,10 +1,10 @@
 import "./App.css";
-import ImagePost from "./projects/16-lazy-loading/ImagePost";
+import Store from "./projects/17-course-store/Store";
 
 function App() {
   return (
     <div className="App">
-      <ImagePost />
+      <Store />
     </div>
   );
 }
